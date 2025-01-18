@@ -1,5 +1,5 @@
 # recnet-login
-Requests-based [RecNet](https://rec.net) Login script
+Requests-based [RecNet](https://rec.net) Login library for Python 3.8+
 
 Forked from an older version of https://github.com/Jegarde/RecNet-Login to make it work with ReCaptchaV2
 
